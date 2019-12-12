@@ -1,3 +1,5 @@
+def my_hash
+
 demy_hash = {"chef" => "Duncan", "pastry chef" => "Chelsie", "cook" => "Will"}
 
   
